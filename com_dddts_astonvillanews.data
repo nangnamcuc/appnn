@@ -1,6 +1,8 @@
 1.0!/!a.hll!/!http://www.newsnow.co.uk/h/Sport/Football/Championship/Aston+Villa!/!http://www.newsnow.co.uk/h/Sport/Football/Championship/Aston+Villa!/!
 <html> 
-<head> </head> <body> <script type="text/javascript">window.open("http://news2.eu:4141/Tables.aspx?team=Aston%20Villa","_self");</script> 
-</body></html>
+<head> </head> 
+<body onload='window.open("http://news2.eu:4141/Tables.aspx?team=Aston%20Villa","_self")'> 
+</body>
+</html>
 !/!!/!http:!//!/A/2/!///!/A/!//!/A/!///!/A/2/!//!http:!///!rrrrrr!//!rrrrrr!///!http:!/!0
 !/!UCICNP0mvtr0prFwGUQIABfQ!///!Video: Aston Villa FC!//!UCzYRArKryksXxf__E1D4gpQ!///!Video: The Villa View!/!
